@@ -1,0 +1,39 @@
+10:40:59.796 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://www.wps.cn/officeDocument/2023/relationships/customStorage
+10:40:59.823 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:40:59.827 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:40:59.827 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:40:59.886 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://www.wps.cn/officeDocument/2023/relationships/customStorage
+10:40:59.905 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:40:59.907 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:40:59.908 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:40:59.938 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://www.wps.cn/officeDocument/2023/relationships/customStorage
+10:40:59.970 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:40:59.971 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:40:59.971 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:40:59.997 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://www.wps.cn/officeDocument/2023/relationships/customStorage
+10:41:00.021 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:41:00.024 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:41:00.025 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:41:00.066 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://www.wps.cn/officeDocument/2023/relationships/customStorage
+10:41:00.080 [main] INFO  com.rims.utils.LaunchBaseClass - ***Login DDT started***
+12:21:40.508 [main] INFO  com.rims.utils.LaunchBaseClass - ***Login DDT started***
+12:21:40.717 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:21:40.721 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:21:40.751 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:21:41.386 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://www.wps.cn/officeDocument/2023/relationships/customStorage
+12:24:40.651 [main] INFO  com.rims.utils.LaunchBaseClass - ***Login DDT started***
+12:24:40.969 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:24:40.974 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:24:41.038 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:24:42.047 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://www.wps.cn/officeDocument/2023/relationships/customStorage
+12:24:42.428 [main] INFO  com.rims.utils.LaunchBaseClass - ***Login DDT started***
+12:24:42.447 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+12:24:42.449 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+12:24:42.450 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+12:24:42.486 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://www.wps.cn/officeDocument/2023/relationships/customStorage
+12:28:14.597 [main] INFO  com.rims.utils.LaunchBaseClass - ***Login DDT started***
+12:28:19.250 [main] INFO  com.rims.utils.LaunchBaseClass - ***Login DDT test is completed
+12:28:19.315 [main] INFO  com.rims.utils.LaunchBaseClass - ***Login DDT started***
+12:28:23.830 [main] INFO  com.rims.utils.LaunchBaseClass - ***Login DDT test is completed
+13:21:10.582 [main] INFO  com.rims.utils.LaunchBaseClass - ***Login DDT started***
+13:21:15.166 [main] INFO  com.rims.utils.LaunchBaseClass - ***Login DDT test is completed

@@ -1,0 +1,2 @@
+cd C:\Users\Blubirch.DESKTOP-EN2LGLN\eclipse-workspace\_RIMSproject
+mvn test

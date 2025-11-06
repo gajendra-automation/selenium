@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<groups>
+    <run>
+       <include name="Sanity"/>
+       <!-- <include name="Master"/>-->
+       <!-- <exclude name="Regression"/>-->
+       </run>
+</groups>
+<listeners>
+<listener class-name="com.rims.extentreportlistener.ExtentReportManager"></listener>
+</listeners>
+  <test thread-count="5" name="Test">
+  <parameter name="os" value="windows"/>
+  <parameter name="browser" value="chrome"/>
+    <classes>
+    <class name="RIA.LogIn"/>
+   <!-- <class name="com.rims.testcases.BrandcallLogFileUploadTest"/>-->
+      <!--<class name="RIA.Returnapproval"/>-->
+     <class name="com.rims.testcases.DispositionTestcase"/>
+      <class name="com.rims.testcases.BrandcallLogTest"/>
+      <class name="com.rims.testcases.InsuranceTest"/>
+      <!--<class name="RIA.Logout"/>-->
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

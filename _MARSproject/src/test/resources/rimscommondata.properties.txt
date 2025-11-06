@@ -1,0 +1,13 @@
+
+browser chrome
+url https://rims-demo.blubirch.com/
+username dava_admin
+password blubirch@123
+refundpercentage 44
+comment Approved
+dusername gajendra_def
+dpassword blubirch123
+quotationvalue 9000
+repairpageurl https://qa-rims-k8s.blubirch.com/api/v1/repair
+dispositionurl https://qa-rims-k8s.blubirch.com/api/v1/disposition
+wmsurl https://qa-rims-k8s.blubirch.com/api/v1/wms-dashboard
