@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Report Creator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 900px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 24px;
+        }
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        .search-container {
+            margin: 20px 0;
+        }
+        input[type="text"] {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .template-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+            gap: 15px;
+        }
+        .template-card {
+            background: #fff;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+        .template-card h3 {
+            margin: 0;
+            font-size: 18px;
+        }
+        .view-link {
+            color: #007bff;
+            text-decoration: none;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Report Creator</h1>
+            <button class="button">Create Template</button>
+        </div>
+        
+        <div class="search-container">
+            <input type="text" placeholder="Search Templates...">
+        </div>
+        
+        <div class="template-grid">
+            <div class="template-card">
+                <h3>Visibility Report</h3>
+                <a href="#" class="view-link">View Template</a>
+            </div>
+            <div class="template-card">
+                <h3>Financial Journey</h3>
+                <a href="#" class="view-link">View Template</a>
+            </div>
+            <div class="template-card">
+                <h3>Replacement Tracking</h3>
+                <a href="#" class="view-link">View Template</a>
+            </div>
+            <div class="template-card">
+                <h3>Invalid Sub-Location</h3>
+                <a href="#" class="view-link">View Template</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
