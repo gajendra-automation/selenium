@@ -38,7 +38,7 @@ public class LaunchBaseClass {
 	public void setup(String os,String br) throws IOException, InterruptedException {
 		if(br.equals("chrome")) { 
 			System.setProperty("webdriver.chrome.driver",
-					  "C:\\Users\\Blubirch.DESKTOP-EN2LGLN\\Downloads\\chromedriver-win64 (6)\\chromedriver-win64\\chromedriver.exe");
+					  "C:\\Users\\Blubirch.DESKTOP-EN2LGLN\\Downloads\\chromedriver-win64 (7)\\chromedriver-win64\\chromedriver.exe");
 			driver=new ChromeDriver();
 		}else if(br.equals("edge")) {
 			driver=new EdgeDriver();
